@@ -33,6 +33,13 @@ The design also includes a push-button clock circuit using an SN74HCT14 Schmitt-
 
 ## Design Status
 The schematic, PCB layout, and Gerber export have been completed. The design has passed EasyEDA's configured DRC checks. Physical hardware functionality has not been tested.
+## PCB 3D Views
+
+### Top View
+![PCB Top View](images/PCB_Top_View.png)
+
+### Bottom View
+![PCB Bottom View](images/PCB_Bottom_View.png)
 
 ## Author
 Mayank Choudhary
